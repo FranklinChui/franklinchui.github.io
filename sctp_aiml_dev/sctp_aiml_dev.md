@@ -1,6 +1,5 @@
 # (SCTP) Associate AI/ML Developer
-
-Program Duration: 26 Mar - 23 Sep 2024
+<br>26 Mar - 23 Sep 2024
 
 ### Module Certificate Links (@accredify.io)
 
@@ -28,5 +27,5 @@ Program Duration: 26 Mar - 23 Sep 2024
 
 [PROMOTE CUSTOMER CENTRIC INNOVATIONS](https://dashboard.accredify.io/verify?id=4bb66da6-45b1-45d4-b673-09ddee2fddea)
 
-ASSOCIATE AI DEVELOPER: CAPSTONE PROJECT
-[Project Github Repository](https://github.com/fc510/sctp-caps-log-classifier)
+[(SCTP) ASSOCIATE AI DEVELOPER: CAPSTONE PROJECT](https://dashboard.accredify.io/verify?id=0d0ce968-94ff-4914-9c87-9374b3bf6ce5)<br>
+Project Repository ([@github](https://github.com/fc510/sctp-caps-log-classifier))

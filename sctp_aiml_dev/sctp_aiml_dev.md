@@ -1,5 +1,6 @@
 # (SCTP) Associate AI/ML Developer
 <br>26 Mar - 23 Sep 2024
+<br>[Programme Details](prog_details.md)
 
 ### Module Certificate Links (@accredify.io)
 
@@ -29,3 +30,5 @@
 
 [(SCTP) ASSOCIATE AI DEVELOPER: CAPSTONE PROJECT](https://dashboard.accredify.io/verify?id=0d0ce968-94ff-4914-9c87-9374b3bf6ce5)<br>
 Project Repository ([@github](https://github.com/fc510/sctp-caps-log-classifier))
+
+

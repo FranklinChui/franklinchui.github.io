@@ -32,3 +32,5 @@
 Project Repository ([@github](https://github.com/fc510/sctp-caps-log-classifier))
 
 
+---
+[NTUC LearningHub Verify Link](https://www.ntuclearninghub.com/verify)

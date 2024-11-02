@@ -1,7 +1,7 @@
 # (SCTP) Associate AI/ML Developer
 <br>26 Mar - 23 Sep 2024
 
-(SCTP) Assocciate AI/ML Developer [Programme Certificate](https://dashboard.accredify.io/verify?id=6be9ac4e-a2b1-4f85-9e9a-c2a7d6daf859) [Transcript](https%3A%2F%2Ffranklinchui.github.io%2Fsctp_aiml_dev%2FVLC-SCTPAML-24-0651%20CHUI%20KIN%20SENG.pdf)
+(SCTP) Assocciate AI/ML Developer [Programme Certificate](https://dashboard.accredify.io/verify?id=6be9ac4e-a2b1-4f85-9e9a-c2a7d6daf859) [Transcript](https://franklinchui.github.io/sctp_aiml_dev/VLC-SCTPAML-24-0651%20CHUI%20KIN%20SENG.pdf)
 
 <br>[Programme Curriculum](curriculum.md)
 

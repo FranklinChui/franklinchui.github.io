@@ -1,5 +1,8 @@
 # (SCTP) Associate AI/ML Developer
 <br>26 Mar - 23 Sep 2024
+
+(SCTP) Assocciate AI/ML Developer [Programme Certificate](https://dashboard.accredify.io/verify?id=6be9ac4e-a2b1-4f85-9e9a-c2a7d6daf859)
+
 <br>[Programme Curriculum](curriculum.md)
 
 ### Module Certificate Links (@accredify.io)

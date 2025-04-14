@@ -2,7 +2,7 @@
 
 [Linkedin](https://www.linkedin.com/franklinchui)
 
-[Github](https://github.com/franklinchui)
+Github: [Franklinchui](https://github.com/franklinchui) [fc510](https://github.com/fc510) [fleining](https://github.com/fleining) [frostiio](https://github.com/frostiio)
 
 [Credly](https://www.credly.com/users/franklin-chui)
 

@@ -1,8 +1,10 @@
-# franklinchui.github.io
+# Franklin Chui
 
 [Linkedin](https://www.linkedin.com/franklinchui)
 
 [Github](https://github.com/franklinchui)
+
+[Credly](https://www.credly.com/users/franklin-chui)
 
 ---
 

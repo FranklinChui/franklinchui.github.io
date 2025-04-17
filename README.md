@@ -1,4 +1,3 @@
-# Franklin Chui
 
 Hi,
 

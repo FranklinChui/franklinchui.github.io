@@ -26,3 +26,13 @@ Github: [Franklinchui](https://github.com/franklinchui) [fc510](https://github.c
 [(SCTP) Associate AIML Developer 2024](https://franklinchui.github.io/sctp_aiml_dev/sctp_aiml_dev)
 
 [Certified Associate Python Programmer PCAP 2024](https://verify.openedg.org/?id=mvNr.kKK1.ifq6)
+
+---
+
+[`FCM-TRADER` - a prompt/context engineered app](https://github.com/FranklinChui/fcm-trader)
+
+[`CodeFlattener` - a gitingest.com inspired codebase flattener](https://github.com/FranklinChui/CodeFlattener)
+
+[`neural-network-from-scratch` - a field trip into the basics of artificial neural network](https://github.com/FranklinChui/neural-network-from-scratch)
+
+[`k3s-helloworld` - quickstart to a simple and usable kubernetes cluster](https://github.com/FranklinChui/k3s-helloworld)
